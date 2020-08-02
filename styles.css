@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    font-family: cursive;
+    box-sizing: border-box;
+    width: 100%;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.pressed {
+    box-shadow: 0 0 50px white ;
+    background-color: black;
+}
+.game-over {
+    background-color: red;
+}
+button {
+    padding : 80px;
+    position: relative;
+    margin: 15px;
+    border-radius: 15px;
+    border: none;
+}
+.button-tag {
+    padding-left: 550px;
+}
+.green {
+    background-color:darkgreen;
+}
+.blue {
+    background-color:blue;
+}
+.orange {
+    background-color:orangered;
+}
+.yellow {
+    background-color:yellow;
+}
